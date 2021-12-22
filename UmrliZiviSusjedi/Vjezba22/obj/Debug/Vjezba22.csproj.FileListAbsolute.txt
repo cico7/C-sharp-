@@ -1,0 +1,14 @@
+B:\Visual studio\C#\Vjezba22\Vjezba22\obj\Debug\Vjezba22.csprojAssemblyReference.cache
+B:\Visual studio\C#\Vjezba22\Vjezba22\obj\Debug\Vjezba22.csproj.CoreCompileInputs.cache
+B:\Visual studio\C#\Vjezba22\Vjezba22\bin\Debug\Vjezba22.exe.config
+B:\Visual studio\C#\Vjezba22\Vjezba22\bin\Debug\Vjezba22.exe
+B:\Visual studio\C#\Vjezba22\Vjezba22\bin\Debug\Vjezba22.pdb
+B:\Visual studio\C#\Vjezba22\Vjezba22\obj\Debug\Vjezba22.exe
+B:\Visual studio\C#\Vjezba22\Vjezba22\obj\Debug\Vjezba22.pdb
+B:\Visual studio\C#\UmrliZiviSusjedi\Vjezba22\bin\Debug\Vjezba22.exe.config
+B:\Visual studio\C#\UmrliZiviSusjedi\Vjezba22\bin\Debug\Vjezba22.exe
+B:\Visual studio\C#\UmrliZiviSusjedi\Vjezba22\bin\Debug\Vjezba22.pdb
+B:\Visual studio\C#\UmrliZiviSusjedi\Vjezba22\obj\Debug\Vjezba22.csprojAssemblyReference.cache
+B:\Visual studio\C#\UmrliZiviSusjedi\Vjezba22\obj\Debug\Vjezba22.csproj.CoreCompileInputs.cache
+B:\Visual studio\C#\UmrliZiviSusjedi\Vjezba22\obj\Debug\Vjezba22.exe
+B:\Visual studio\C#\UmrliZiviSusjedi\Vjezba22\obj\Debug\Vjezba22.pdb
